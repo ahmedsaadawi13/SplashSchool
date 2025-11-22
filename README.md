@@ -127,7 +127,7 @@ A complete, secure, and scalable School Management SaaS built with PHP and MySQL
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SplashSchool.git
+git clone https://github.com/ahmedsaadawi13/SplashSchool.git
 cd SplashSchool
 ```
 
@@ -450,7 +450,7 @@ This project is open-source software licensed under the MIT license.
 
 ## Support
 
-For support, email support@splashschool.com or create an issue in the repository.
+For support, email ahmed.sha3ban13@gmail.com or create an issue in the repository.
 
 ## Credits
 
